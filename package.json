@@ -1,10 +1,10 @@
 {
-  "name": "solarized-dark-ui",
+  "name": "vond-atom-ui",
   "theme": "ui",
   "version": "0.3.2",
-  "description": "Solarized Dark UI theme for Atom",
+  "description": "VonD theme for Atom",
   "license": "MIT",
-  "repository": "https://github.com/rnhmjoj/solarized-dark-ui",
+  "repository": "https://github.com/VonD/solarized-dark-ui",
   "engines": {
     "atom": ">0.50.0"
   }
